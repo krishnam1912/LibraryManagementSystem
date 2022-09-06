@@ -8,4 +8,7 @@ Application functionalities includes -
 4. Returning Books
 5. View/Storing all records
 6. Maintaining a defaulter list
+Schema
+![image](https://user-images.githubusercontent.com/54627911/188697284-956a7247-4e5a-4a5a-928d-847822198a51.png)
+
 
