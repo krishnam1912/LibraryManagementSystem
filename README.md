@@ -10,6 +10,6 @@ Application functionalities includes -
 6. Maintaining a defaulter list
 
 Schema:
-![image](https://user-images.githubusercontent.com/54627911/188697284-956a7247-4e5a-4a5a-928d-847822198a51.png)
+![image](https://user-images.githubusercontent.com/54627911/188770230-f232d5c2-fa9e-4c46-8c7b-7d38945c6abf.png)
 
 
